@@ -1,0 +1,19 @@
+---
+applyTo: "**/*.md,**/*.mdx"
+description: "Style rules for any Markdown file: plain, specific, no AI filler."
+---
+
+# Markdown prose
+
+When editing or creating Markdown files:
+
+- Lead with the point; no throat-clearing openers or summarising closers.
+- Use plain words. Cut "leverage", "utilize", "robust", "seamless", "comprehensive", "delve".
+- Avoid "not just X, but Y", forced triads and chains of em dashes.
+- Keep one idea per paragraph and sentences short.
+- Headings go in order (no jump from `##` to `####`), use sentence case, and are unique within a page.
+- Fence code blocks with a language tag. Put commands, paths, flags and env vars in backticks.
+- Use second person and imperative for instructions.
+- Keep terminology consistent with the code; do not rename concepts for variety.
+- No emoji, no decorative separators, no badge walls unless the project already has them.
+- Preserve the file's existing formatting conventions (list markers, line wrapping, heading style).
